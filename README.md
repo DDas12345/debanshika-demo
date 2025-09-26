@@ -1,4 +1,4 @@
-# debanshika-demo
+c# debanshika-demo
 My first git repository
 <br>
-Author - Debanshika
+Author - Debanshika Das
